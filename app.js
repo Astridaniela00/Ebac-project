@@ -84,4 +84,4 @@ var continuar = prompt("¿Deseas hacer otra acción? (S/N)");
 }while(continuar === "s");
 
 
-
+console.log("prueba");
